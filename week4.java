@@ -28,5 +28,6 @@ public class Week4 {
         Alcantara.display();
         Estonilo.display();
         Lorca.display();
+        Galvan.display();
     }
 }
